@@ -1,9 +1,9 @@
-# from https://space.stackexchange.com/a/20629
+# https://space.stackexchange.com/a/20629
 
 import ephem
 import datetime
 
-name = "STARLINK-31 ";
+name = "STARLINK-31";
 line1 = "1 44235U 19029A   20119.25001157  .00015812  00000-0  92215-3 0  9992";
 line2 = "2 44235  53.0008  78.4903 0001148  58.3107 248.5044 15.12129102 52621";
 
